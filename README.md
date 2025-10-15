@@ -1,6 +1,6 @@
 ---
 
-**Desarrollado por:
+# Desarrollado por:
 **Joan Estevan Mejía Reyes**
 Grupo: G411  
 Docente: Gabriel Pérez Moreno  
