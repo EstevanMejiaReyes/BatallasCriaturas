@@ -1,3 +1,13 @@
+---
+
+**Desarrollado por:
+**Joan Estevan Mejía Reyes**
+Grupo: G411  
+Docente: Gabriel Pérez Moreno  
+Fecha: 15 de octubre de 2025  
+
+---
+
 # Simulador de Batallas entre Criaturas  
 ![Java](https://img.shields.io/badge/Java-23-red?logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-3.9.11-blue?logo=apachemaven)
